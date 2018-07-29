@@ -1,4 +1,5 @@
-# Python: Getting Started
+# Django on Heroku
+This is for exam on my college
 
 ## Running Locally
 ```bash
