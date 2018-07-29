@@ -2,10 +2,10 @@ from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 
-DB_HOST = 'localhost'
+DB_HOST = '188.166.237.104'
 DB_PORT = '3306'
 DB_USER = 'root'
-DB_PASS = ''
+DB_PASS = '@Root<<0'
 DB_NAME = 'kulina'
 DB_URI = 'mysql+pymysql://{}:{}@{}:{}/{}'.format(DB_USER,DB_PASS,DB_HOST,DB_PORT,DB_NAME)
 
