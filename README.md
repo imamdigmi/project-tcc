@@ -51,3 +51,6 @@ git push heroku master
 heroku run python manage.py migrate
 heroku open
 ```
+
+
+[![Deployment Demo](https://img.youtube.com/vi/HPrq7ZNSS-8/0.jpg)](https://www.youtube.com/watch?v=HPrq7ZNSS-8)
